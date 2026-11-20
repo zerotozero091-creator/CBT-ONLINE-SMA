@@ -1,0 +1,8 @@
+{
+  "name": "CBT Mandiri Online - SMA NEGERI / SWASTA",
+  "description": "Sistem Ujian Berbasis Komputer (CBT) Local-First untuk Sekolah dan Madrasah dengan KaTeX Engine, Auto Sync Supabase PostgreSQL, Anti-Fraud, dan Rekapitulasi Nilai Otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
